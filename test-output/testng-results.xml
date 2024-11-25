@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-25T00:24:50 IST" name="Default suite" finished-at="2024-11-25T00:24:52 IST" duration-ms="1621">
+  <suite started-at="2024-11-25T11:37:55 IST" name="Default suite" finished-at="2024-11-25T11:37:58 IST" duration-ms="2244">
     <groups>
     </groups>
-    <test started-at="2024-11-25T00:24:50 IST" name="Default test" finished-at="2024-11-25T00:24:52 IST" duration-ms="1621">
+    <test started-at="2024-11-25T11:37:55 IST" name="Default test" finished-at="2024-11-25T11:37:58 IST" duration-ms="2244">
       <class name="tests.TestExamples">
-        <test-method signature="test_1()[pri:0, instance:tests.TestExamples@37afeb11]" started-at="2024-11-25T00:24:50 IST" name="test_1" finished-at="2024-11-25T00:24:51 IST" duration-ms="1455" status="PASS">
+        <test-method signature="test_1()[pri:0, instance:tests.TestExamples@37afeb11]" started-at="2024-11-25T11:37:56 IST" name="test_1" finished-at="2024-11-25T11:37:57 IST" duration-ms="1560" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_1 -->
-        <test-method signature="test_2()[pri:0, instance:tests.TestExamples@37afeb11]" started-at="2024-11-25T00:24:51 IST" name="test_2" finished-at="2024-11-25T00:24:52 IST" duration-ms="127" status="PASS">
+        <test-method signature="test_2()[pri:0, instance:tests.TestExamples@37afeb11]" started-at="2024-11-25T11:37:57 IST" name="test_2" finished-at="2024-11-25T11:37:58 IST" duration-ms="646" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_2 -->
